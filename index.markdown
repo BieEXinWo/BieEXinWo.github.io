@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Hello, my name is Chengjian (Jason) Jin.
+
+I have Master's degree from Cornell University and Bachelor's degree from Emory University.
+
+Will be working in Finance sector
