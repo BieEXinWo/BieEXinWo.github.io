@@ -1,0 +1,14 @@
+---
+layout: post
+title: Resume
+date: 2022-04-17
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+You can find my resume here.
+
+[download pdf for Resume in English Version]({{ site.url }}/assets/Jason_Jin_Resume.pdf)
+
+[download pdf for Resume in Chinese Version]({{ site.url }}/assets/resume_chn.pdf)
