@@ -1,0 +1,31 @@
+I"<h2 id="about-me">About Me</h2>
+
+<p>My name is Chengjian Jin or you can call me Jason.</p>
+
+<p>I am a class of 2021 ORIE student at Cornell University, and my concentration within the program is Financial Engineering.</p>
+
+<p>My interests are mainly programming/modeling, and I like to play e-sport games 
+and badminton in my spare time.</p>
+
+<h2 id="my-courses">My Courses</h2>
+
+<p>The major courses involve Math, Computer Programming, and Finance.</p>
+
+<figure class="highlight"><pre><code class="language-blue" data-lang="blue">Main Math courses: 
+
+* OR Tools for Financial Engineering
+* Statistical Data Mining
+* Game Theory
+* Service System Modeling</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-blue" data-lang="blue">Main Programming courses: 
+
+* Monte Carlo Simulation
+* Big Data Technology</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-blue" data-lang="blue">Main Finance courses: 
+
+* Derivative Securities
+* Investments and Portfolio Management</code></pre></figure>
+
+:ET

@@ -1,0 +1,38 @@
+I"Ü
+<h2 id="or-tools-for-financial-engineering">OR tools for Financial Engineering</h2>
+
+<p>This course covers topics like AR, MA, ARIMA, GARCH models for time-series,
+ Stock Returns and Volatilities, CAPM models, Bonds and Option pricing,
+ Black-Scholes Equation.</p>
+
+<p>This project was aiming for investigating the effects of total number of stocks
+in the market on a Beta-neutral portfolio based on CAPM model.</p>
+
+<p>In this project, a number of stocks returns were simulated to be all the stocks
+available in the stock market.
+Then a portfolio was constructed to achieve 0 Beta so that we can avoid systematic risk.</p>
+
+<p>It was found that as the total number of stocks available increases, the number of stocks that should be taken short position also increases, and the ratio of short sell stocks always remain around 50% in the portfolio.</p>
+
+<p>In addition, if a limit for short selling was imposed, so that there is an upper bound for the percent wealth we invest in short selling, then the portfolio returns would be negatively impacted.</p>
+
+<p><a href="http://localhost:4000/assets/5630_presentation.pdf">download pdf for 5630 project</a></p>
+
+<h2 id="service-system-modeling-and-design">Service System Modeling and Design</h2>
+
+<p>This course was designed to investigate queues. Queues are ubiquitous in our lives, and we tried to figure out the expected waiting time for customers in the line, by modeling different types of queues.</p>
+
+<p>This project was about scalping, and we simulated a queue using Python with Poisson distributed arrival rate and service rate. The scalpers were inserted with a frequency, i.e. for every K-th customers in line, a scalper would be inserted, And each incoming customer would have a certain probability of willingness to purchase a swap with a scalper ahead of him/her.</p>
+
+<p>We tried different parameters to find out suitable frequency to insert scalpers, and attempted to find a pricing model that leads to the highest profit.</p>
+
+<p><a href="http://localhost:4000/assets/ORIE5130_Project_Report.pdf">download pdf for 5130 project</a></p>
+
+<h2 id="data-mining">Data Mining</h2>
+
+<p>This course was taken in Emory University CS470, and main topics were supervised and unsupervised learning such as Regression, Decision Trees, K-Means Clustering, K-Medoid Clustering, Hierarchical Clustering.</p>
+
+<p>The project attempted to investigate the E-Sport tournament called League of Legends by finding out the most influential attribute in the game, and also clustered different teams based on their strategies and game styles. At last we hoped to predict which types of teams are more likely to win a match.</p>
+
+<p><a href="http://localhost:4000/assets/League_of_Legends_Data_Mining.pdf">download pdf for 470 project</a></p>
+:ET
